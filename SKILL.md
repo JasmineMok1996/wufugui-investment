@@ -1,5 +1,12 @@
 ---
 name: wufugui-investment
+slug: wufugui-investment
+version: 1.0.0
+displayName: 吴富贵 · 攒股收息投资系统
+summary: 基于小红书博主「还是叫吴富贵吧」低波红利策略蒸馏的投资决策助手，股息率×网格双信号判断买卖点。
+tags: [投资, 理财, 股息, 网格, 股票, 攒股收息, 低波红利]
+license: MIT
+homepage: https://github.com/JasmineMok1996/wufugui-investment
 description: |
   吴富贵（小红书「还是叫吴富贵吧」/雪球 momo吴富贵）的「低波红利 / 攒股收息」投资策略系统。
   基于 18+ 篇笔记OCR、34 只标的全市场真实数据、多轮策略拆解的深度蒸馏，
